@@ -2,13 +2,7 @@
 
 This project aims to use a selection from learned techniques during the course to build up an end to end data analysis project suitable for the market. 
 
-The project contains the following files:
-
-    - .gitignore: Contains the 'confidencial' files.
-    - xxxxxx.csv: Provided database. 
-    - renewables_and_environment.ipynb: Jupyter notebook containing all the data cleaning/wrangling, EDA and modeling.
-    - xxxxx.sql: script used to create a SQL the simulated database from a bank.
-    - README.md: explanation about project goals, files and workflow.
+**Context**
 
 The proper design of this project will be defined based on the features of the available data set.
 
@@ -23,7 +17,25 @@ Therefore, we are about to have new definitions regarding our obligations toward
 
 (source: https://www.consilium.europa.eu/pt/policies/climate-change/paris-agreement/cop26/)
 
-**Data**
+When a country commits to have public politics aiming to deal with the consequences of the global warming all spheres try to adapt their selves to that. For example, in the Netherlands Diesel car are not allowed anymore to enter Amsterdam area. Hence, considering the last years and the statistics about the type of cars in that city, is possible to see a raise on the number of electrical vehicles.
+
+Another reflex of this adaptation that could be observed by the increase of the number of eletric recharge stations, the number of vacancies in sectors as the energetic one, or even the creation of sub-sectors as electro-mobility inside the cars industry.
+
+At the data analysts job market is possible to find vacancies with slogans such as: "be part of the electro-mobility revolution". This sector has been presenting growing and development given the global warming situation and public politics to deal with that, such as those approached by conferences as the COP.
+
+The labour of these kind of positions is to do a cross-functional collaboration with different departments within a company, from sales and purchasing to component design. Understanding customer usage and product performance to identify the challenges of the market and provide smart solutions.
+
+Based on the previous explanation about how public politics could influenciate the society behaviour the target of this project is to analyze climate data from the Netherlands as well as Dutch car sales data and try to figure out if there is a correlation between Government action and market adaptation.
+
+The project contains the following files:
+
+    - .gitignore: Contains the 'confidencial' files.
+    - xxxxxx.csv: Provided database. 
+    - renewables_and_environment.ipynb: Jupyter notebook containing all the data cleaning/wrangling, EDA and modeling.
+    - xxxxx.sql: script used to create a SQL the simulated database from a bank.
+    - README.md: explanation about project goals, files and workflow.
+    
+    **Data**
 
 - **Customer Number**: A sequential number assigned to the customers (this column is hidden and excluded – this unique identifier will not be used directly).
 - **Offer Accepted**: Did the customer accept (Yes) or reject (No) the offer. 
