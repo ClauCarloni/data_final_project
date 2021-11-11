@@ -1,0 +1,5 @@
+https://en.tutiempo.net/climate/ws-62400.html
+
+https://www.wunderground.com/history/monthly/EHAM/date/2010-1
+
+nice site with the temporal series without wind info: https://climateknowledgeportal.worldbank.org/download-data

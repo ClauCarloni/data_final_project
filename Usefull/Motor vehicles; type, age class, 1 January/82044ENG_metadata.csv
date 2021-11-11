@@ -1,0 +1,216 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Motor vehicles; type, age class, 1 January";"Motor vehicles; type, age class";"82044ENG";"Passenger cars, delivery vans, lorries, road tractors, buses,
+trailers, semi-trailers, motorcycles, vehicle age classes.";"2021-09-22T02:00:00";"Update";"";"en";"CBS";"Yearly";"2000 - 2021";"
+This table contains key data on the vehicle fleet of passenger cars, motorcycles and commercial vehicles (by vehicle category) and by age class of the vehicle.
+The figures are based on the registration numbers provided by the Dutch Road Traffic Authority (RDW). All vehicles registered on 1 January of each year have been counted, the data are recorded and stored and the register can be accessed for statistical purposes.
+As from 2004, the total count of vehicles is not fully comparable with previous years due to separate registration of trailers and semi-trailers.
+
+Data available from: 2000
+
+Status of the figures: final
+
+Changes as of 22 September 2021
+Figures of the vehicle fleet on 1 January 2021 have been added.
+
+The figures for 1 January 2021 have been published with a delay this year due to problems with the distribution of the source files. Furthermore, after receiving the source files, extensive analyses revealed that in the current selection too many vehicles are included. This concerns vehicles with no insurance during the year prior to the reference date. To give an indication, this comprises approximately 2 percent of all motor vehicles, with percentages differing per vehicle category. We are currently working on a report, in which we will describe and quantify the differences between the current method and the selection method we will use in the future. This report will be published later this year. The figures in this table have been calculated using the current method. This means that the data on 1 January 2021 are comparable with the data of previous years. 
+
+When will new figures be published?
+New figures of the vehicle fleet on 1 January 2022 will be published in February 2022.
+
+";"CONTENTS
+
+1. General information
+2. Definitions and explanation of symbols
+3. Links to relevant tables and articles
+4. Sources and methods
+5. Further information
+
+1. GENERAL INFORMATION
+
+This table contains key data on the vehicle fleet of passenger cars, motorcycles and commercial vehicles (by vehicle category) and by age class of the vehicle.
+The figures are based on the registration numbers provided by the Dutch Road Traffic Authority (RDW). All vehicles registered on 1 January of each year have been counted, the data are recorded and stored and the register can be accessed for statistical purposes.
+As from 2004, the total count of vehicles is not fully comparable with previous years due to separate registration of trailers and semi-trailers.
+
+Data available from: 2000
+
+Status of the figures: final
+
+Changes as of 22 September 2021
+Figures of the vehicle fleet on 1 January 2021 have been added.
+
+The figures for 1 January 2021 have been published with a delay this year due to problems with the distribution of the source files. Furthermore, after receiving the source files, extensive analyses revealed that in the current selection too many vehicles are included. This concerns vehicles with no insurance during the year prior to the reference date. To give an indication, this comprises approximately 2 percent of all motor vehicles, with percentages differing per vehicle category. We are currently working on a report, in which we will describe and quantify the differences between the current method and the selection method we will use in the future. This report will be published later this year. The figures in this table have been calculated using the current method. This means that the data on 1 January 2021 are comparable with the data of previous years. 
+
+When will new figures be published?
+New figures of the vehicle fleet on 1 January 2022 will be published in February 2022.
+
+
+2. DEFINITIONS AND EXPLANATION OF SYMBOLS
+
+Definitions:
+
+Fleet of motor vehicles/total road vehicles
+The total number of (motorized) vehicles with a Dutch registration license. This includes passenger cars, commercial vehicles, trailers, semi-trailers, motorcycles and mopeds.
+Data on mopeds are excluded in this table.
+
+Total road vehicles
+Vehicle running on wheels and intended for use on roads. This includes passenger cars, commercial vehicles (vans, lorries, road tractors, special purpose vehicles, buses, trailers and semi-trailers) motorcycles and mopeds. From September 2003 all trailers are required to have a valid registration certificate. Since 2004 these categories are included in the summaries of vehicle statistics.
+
+Passenger car
+Road motor vehicle, other than a moped or a motor cycle, intended for the carriage of passengers and designed to seat no more than nine persons (including the driver).
+
+Motorcycle
+Two-, three- or four-wheeled road motor vehicle not exceeding 400 kg (900 lb) of unladen weight. All such vehicles with a cylinder capacity over 50 cc are included, as are those under 50 cc which do not meet the definition of moped.
+
+Commercial vehicle
+Vehicle exclusively or primarily designed  for the commercial transport of goods and passengers, for special purposes or to haul semi-trailers. This includes vans, lorries, road tractors, special purpose vehicles, buses, trailers and semi-trailers. From September 2003 all trailers are required to have a valid registration certificate. Since 2004 these categories are included in the summaries of vehicle statistics.
+
+Explanation of symbols:
+
+Empty cell	: figure not applicable
+. 		: figure is unknown, insufficiently reliable or confidential
+*		: provisional figure 
+**		: revised provisional figure
+
+
+3. LINKS TO RELEVANT TABLES AND ARTICLES
+
+Relevant tables: 
+- <a href='https://opendata.cbs.nl/statline/#/CBS/en/dataset/80020ENG'>Motor vehicles and motorcycles trade; turnover, 1995-2012</a>
+- <a href='https://opendata.cbs.nl/statline/#/CBS/en/dataset/80379ENG'>Vehicle kilometres goods vehicles; kilometres covered, weight and territory</a>
+- <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/71405NED'>Personenauto's; voertuigkenmerken, regio's, 1 januari</a> (only in Dutch)
+- <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/71407NED'>Bedrijfsvoertuigen; voertuigkenmerken, regio's, 1 januari</a> (only in Dutch)
+- <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/71406NED'>Motorfietsen; voertuigkenmerken, regio's, 1 januari</a> (only in Dutch)
+- <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/7374HVV'>Motorvoertuigenpark; inwoners, type, regio, 1 januari</a> (only in Dutch)
+
+More information can be found in the theme <a href='https://www.cbs.nl/en-gb/society/traffic-and-transport'>Traffic and transport</a>.
+
+
+4. SOURCES AND METHODS
+
+The survey method for this table can be found in the survey description <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/motorvoertuigenpark'>Motorvoertuigenpark</a> (only in Dutch available).
+
+
+5. FURTHER INFORMATION
+
+<a href='https://www.cbs.nl/en-gb/about-us/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Statistics Netherlands, The Hague/Heerlen
+Reproduction is permitted, provided Statistics Netherlands is quoted as the source.
+";"ts=1632226212970&graphtype=Table&r=ClassOfVehicleAge,Periods&k=Topics";"$filter=((Periods eq '2015JJ00') or (Periods eq '2016JJ00') or (Periods eq '2017JJ00') or (Periods eq '2018JJ00') or (Periods eq '2019JJ00') or (Periods eq '2020JJ00') or (Periods eq '2021JJ00'))&$select=ClassOfVehicleAge, Periods, TotalRoadVehicles_1, PassengerCar_2, TotalCommercialVehicles_3, TotalCommercialMotorVehicles_4, DeliveryVan_5, Lorry_6, RoadTractor_7, SpecialPurposeVehicle_8, Bus_9, TotalTrailersAndSemiTrailers_10, Trailer_11, SemiTrailer_12, Motorcycle_13";"Table,Bar,Line";"Regular";"CBS.";"2021-09-22T02:00:00";"3"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"ClassOfVehicleAge";"Class of vehicle age";"";;;;;
+"1";"1";;"TimeDimension";"Periods";"Periods";"";"true";;;;
+"2";"2";;"Topic";"TotalRoadVehicles_1";"Total  road vehicles";"Vehicle running on wheels and intended for use on roads.
+
+This includes passenger cars, commercial vehicles (vans, lorries, road tractors, special purpose vehicles, buses, trailers and semi-trailers) motorcycles and mopeds. 
+From September 2003 all trailers are required to have a valid registration certificate. Since 2004 these categories are included in the summaries of vehicle statistics.
+
+Data on mopeds are excluded in this table.";;"Long";"number";"0";"Zero"
+"3";"3";;"Topic";"PassengerCar_2";"Passenger car";"Road motor vehicle, other than a moped or a motor cycle, intended for the carriage of passengers and designed to seat no more than nine persons (including the driver).
+
+Included are:
+a) Passenger cars
+b) Vans designed and used primarily for transport of passengers
+c) Taxis
+d) Hire cars
+e) Ambulances
+f) Motor homes.
+Excluded are light goods road vehicles, as well as motor-coaches,  buses and mini-buses/mini-coaches.
+/""/Passenger car/""/ includes taxis and passenger hire cars, provided that they have fewer than ten seats. As of May 1, 2009 motor homes are registered as passenger cars or bus depending on the number of seats. Before that date motor homes are registered as special purpose vehicles.";;"Long";"number";"0";"Zero"
+"4";;;"TopicGroup";"";"Commercial vehicles";"Vehicle exclusively or primarily designed  for the commercial transport of goods and passengers, for special purposes or to haul semi-trailers.
+
+This includes vans, lorries, road tractors, special purpose vehicles, buses, trailers and semi-trailers. 
+From September 2003 all trailers are required to have a valid registration certificate. Since 2004 these categories are included in the summaries of vehicle statistics.";;;;;
+"5";"4";"4";"Topic";"TotalCommercialVehicles_3";"Total commercial vehicles";"Vehicle exclusively or primarily designed  for the commercial transport of goods and passengers, for special purposes or to haul semi-trailers.
+
+This includes vans, lorries, road tractors, special purpose vehicles, buses, trailers and semi-trailers. 
+From September 2003 all trailers are required to have a valid registration certificate. Since 2004 these categories are included in the summaries of vehicle statistics.";;"Long";"number";"0";"Zero"
+"6";;"4";"TopicGroup";"";"Commercial motor vehicles";"Motor vehicle exclusively or primarily designed  for the commercial transport of goods and passengers.
+
+This includes vans, lorries, road tractors, special purpose vehicles and buses. 
+Trailers and semi-trailers are not included.";;;;;
+"7";"5";"6";"Topic";"TotalCommercialMotorVehicles_4";"Total commercial motor vehicles";"Motor vehicle exclusively or primarily designed  for the commercial transport of goods and passengers.
+
+This includes vans, lorries, road tractors, special purpose vehicles and buses. 
+Trailers and semi-trailers are not included.";;"Long";"number";"0";"Zero"
+"8";"6";"6";"Topic";"DeliveryVan_5";"Delivery van";"Goods road vehicle with a gross vehicle weight of not more than 3500 kg, designed, exclusively or primarily, to carry goods.
+
+Included are vans designed for and used primarily for transport of goods, pick-ups and small lorries with a gross vehicle weight of not more than 3500 kg.";;"Long";"number";"0";"Zero"
+"9";"7";"6";"Topic";"Lorry_6";"Lorry";"Rigid heavy goods road vehicle with a gross vehicle weight above 3500 kg,  exclusively or primarily designed to carry goods.";;"Long";"number";"0";"Zero"
+"10";"8";"6";"Topic";"RoadTractor_7";"Road tractor";"Road motor vehicle, exclusively or primarily designed to haul other road vehicles which are not power-driven (mainly semi-trailers).
+
+Agricultural tractors are not included.";;"Long";"number";"0";"Zero"
+"11";"9";"6";"Topic";"SpecialPurposeVehicle_8";"Special purpose vehicle";"Road motor vehicle designed for purposes other than the carriage of passengers or goods.
+
+This includes:
+a) motor homes
+b) vehicles for transporting other vehicles
+c) garbage trucks
+d) fire brigade vehicles
+e) mobile cranes
+f) aerial work platforms
+h) other special purpose road motor vehicles.
+As of May 1, 2009 motor homes are registered as passenger cars or bus depending on the number of seats. Before that date motor homes are registered as special purpose vehicles.
+";;"Long";"number";"0";"Zero"
+"12";"10";"6";"Topic";"Bus_9";"Bus";"Passenger road motor vehicle designed to seat more than nine persons (including the driver).";;"Long";"number";"0";"Zero"
+"13";;"4";"TopicGroup";"";"Trailers and semi-trailers";"Trailer
+Goods road vehicle designed to be hauled by a road motor vehicle. Caravans are also included in the category trailer.
+
+Semi-trailer
+Goods road vehicle with no front axle designed in such way that part of the vehicle and a substantial part of its loaded weight rests on the road tractor.
+
+From September 2003 all trailers, caravans and semi-trailers are required to have a valid registration certificate. Since 2004 these categories are included in the summaries of vehicle statistics.";;;;;
+"14";"11";"13";"Topic";"TotalTrailersAndSemiTrailers_10";"Total trailers and semi-trailers";"Trailer
+Goods road vehicle designed to be hauled by a road motor vehicle. Caravans are also included in the category trailer.
+
+Semi-trailer
+Goods road vehicle with no front axle designed in such way that part of the vehicle and a substantial part of its loaded weight rests on the road tractor.
+
+From September 2003 all trailers, caravans and semi-trailers are required to have a valid registration certificate. Since 2004 these categories are included in the summaries of vehicle statistics.";;"Long";"number";"0";"Impossible"
+"15";"12";"13";"Topic";"Trailer_11";"Trailer";"Goods road vehicle designed to be hauled by a road motor vehicle.
+Caravans are also included in the category trailer.
+
+From September 2003 all trailers, caravans and semi-trailers are required to have a valid registration certificate. Since 2004 these categories are included in the summaries of vehicle statistics.";;"Long";"number";"0";"Impossible"
+"16";"13";"13";"Topic";"SemiTrailer_12";"Semi-trailer";"Goods road vehicle with no front axle designed in such way that part of the vehicle and a substantial part of its loaded weight rests on the road tractor.
+
+From September 2003 all trailers and semi-trailers are required to have a valid registration certificate. Since 2004 these categories are included in the summaries of vehicle statistics.";;"Long";"number";"0";"Impossible"
+"17";"14";;"Topic";"Motorcycle_13";"Motorcycle";"Two-, three- or four-wheeled road motor vehicle not exceeding 400 kg (900 lb) of unladen weight. All such vehicles with a cylinder capacity over 50 cc are included, as are those under 50 cc which do not meet the definition of moped.";;"Long";"number";"0";"Zero"
+"ClassOfVehicleAge"
+Key;Title;Description
+"10000  ";"Total";""
+"A028285";"Younger than 1 year";""
+"51200  ";"1 or 2 years";""
+"51400  ";"3 or 4 years";""
+"51500  ";"5 or 6 years";""
+"51700  ";"7 or 8 years";""
+"A028286";"9 to 11 years";""
+"80007  ";"12 to 14 years";""
+"70400  ";"15 to 19 years";""
+"70500  ";"20 to 24 years";""
+"20700  ";"25 years or older";""
+"Periods"
+Key;Title;Description;Status
+"2000JJ00";"2000";"";"Definitief"
+"2001JJ00";"2001";"";"Definitief"
+"2002JJ00";"2002";"";"Definitief"
+"2003JJ00";"2003";"";"Definitief"
+"2004JJ00";"2004";"";"Definitief"
+"2005JJ00";"2005";"";"Definitief"
+"2006JJ00";"2006";"";"Definitief"
+"2007JJ00";"2007";"";"Definitief"
+"2008JJ00";"2008";"";"Definitief"
+"2009JJ00";"2009";"";"Definitief"
+"2010JJ00";"2010";"";"Definitief"
+"2011JJ00";"2011";"";"Definitief"
+"2012JJ00";"2012";"";"Definitief"
+"2013JJ00";"2013";"";"Definitief"
+"2014JJ00";"2014";"";"Definitief"
+"2015JJ00";"2015";"";"Definitief"
+"2016JJ00";"2016";"";"Definitief"
+"2017JJ00";"2017";"";"Definitief"
+"2018JJ00";"2018";"";"Definitief"
+"2019JJ00";"2019";"";"Definitief"
+"2020JJ00";"2020";;"Definitief"
+"2021JJ00";"2021";;"Definitief"
